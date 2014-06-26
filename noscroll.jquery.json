@@ -16,7 +16,8 @@
         "url": "https://github.com/Syrexide/noscroll/blob/master/LICENSE"
     }],
     "bugs": "https://github.com/Syrexide/noscroll/issues",
-    "homepage": "http://syrexide.github.io/noscroll/",
+    "homepage": "https://github.com/Syrexide/noscroll/",
+    "demo": "http://syrexide.github.io/noscroll/",
     "dependencies": {
         "jquery": ">=2.0"
     }
